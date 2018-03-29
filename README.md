@@ -73,3 +73,12 @@ Pay attention to the top bar, you will see the changes.
 
 ![](images/dynamic-panel-transparency-screenshot-preview.png)
 
+## coding-is-life.sh
+Install essential and generic developemt tools and softwares, building an out-of-the-box environment for programmer.
+
+### Installation
+Run the follwing command to install:
+
+	curl -sLf https://raw.githubusercontent.com/gaunthan/coding-is-life.sh | bash
+
+
