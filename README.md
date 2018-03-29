@@ -60,9 +60,11 @@ Thanks to rockon999, for sharing such awesome extension! Repository address: [ro
 ### Installation
 Run the follwing command to install the extension:
 
-  curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/dynamic-panel-transparency.sh | bash
+	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/dynamic-panel-transparency.sh | bash
 
 ### Screenshots
+Pay attention to the top bar, you will see the changes.
+
 #### Desktop
 
 ![](images/dynamic-panel-transparency-screenshot-desktop.png)
