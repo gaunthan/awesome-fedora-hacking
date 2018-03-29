@@ -46,10 +46,28 @@ with enabled extensions
 ![](images/hack-gnome-shell-screenshot-enabled-extensions.png)
 
 ### Screenshots
+#### Desktop
+
+![](images/hack-gnome-shell-screenshot-desktop.png)
+
 #### Preview
 
 ![](images/hack-gnome-shell-screenshot-preview.png)
 
+## dynamic-panel-transparency.sh
+Thanks to rockon999, for sharing such awesome extension! Repository address: [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency).
+
+### Installation
+Run the follwing command to install the extension:
+
+  curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/dynamic-panel-transparency.sh | bash
+
+### Screenshots
 #### Desktop
 
-![](images/hack-gnome-shell-screenshot-desktop.png)
+![](images/dynamic-panel-transparency-screenshot-desktop.png)
+
+#### Preview
+
+![](images/dynamic-panel-transparency-screenshot-preview.png)
+
