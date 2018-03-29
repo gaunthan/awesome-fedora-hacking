@@ -66,4 +66,4 @@ gsettings set org.gnome.desktop.interface cursor-theme Breeze_Snow
 
 # Restart gnome-shell 
 echo "Restarting gnome-shell to flush the configurations..."
-killall -HUP gnome-shell
+gnome-shell -r > /dev/null 2>&1 &
