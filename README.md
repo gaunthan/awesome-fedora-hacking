@@ -39,20 +39,20 @@ Above packages see very little use, so I decide to remove them. Comment correspo
 ### Configurations
 This script will configure your gnome shell's appearance as shown
 
-![](images/hack-gnome-shell-screenshot-appearance.png)
+![](./images/hack-gnome-shell-screenshot-appearance.png)
 
 with enabled extensions
 
-![](images/hack-gnome-shell-screenshot-enabled-extensions.png)
+![](./images/hack-gnome-shell-screenshot-enabled-extensions.png)
 
 ### Screenshots
 #### Desktop
 
-![](images/hack-gnome-shell-screenshot-desktop.png)
+![](./images/hack-gnome-shell-screenshot-desktop.png)
 
 #### Preview
 
-![](images/hack-gnome-shell-screenshot-preview.png)
+![](./images/hack-gnome-shell-screenshot-preview.png)
 
 ## dynamic-panel-transparency.sh
 Thanks to rockon999, for sharing such awesome extension! Repository address: [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency).
@@ -67,11 +67,11 @@ Pay attention to the top bar, you will see the changes.
 
 #### Desktop
 
-![](images/dynamic-panel-transparency-screenshot-desktop.png)
+![](./images/dynamic-panel-transparency-screenshot-desktop.png)
 
 #### Preview
 
-![](images/dynamic-panel-transparency-screenshot-preview.png)
+![](./images/dynamic-panel-transparency-screenshot-preview.png)
 
 ## coding-is-life.sh
 Install essential and generic developemt tools and softwares, building an out-of-the-box environment for programmer.
@@ -82,3 +82,11 @@ Run the follwing command to install:
 	curl -sLf https://raw.githubusercontent.com/gaunthan/coding-is-life.sh | bash
 
 
+## prompt-soul.sh
+A Powerline like prompt for Bash:
+
+![](./images/prompt-soul-screenshot-sample.png)
+
+Run the follwing command to install:
+
+	curl -sLf https://raw.githubusercontent.com/gaunthan/prompt-soul.sh | bash
