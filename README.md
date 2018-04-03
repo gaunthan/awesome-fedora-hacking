@@ -1,6 +1,10 @@
 # awesome-fedora-hacking
 Hacking your Fedora system, make it awesome! :-D
 
+## hack-gnome-shell.sh
+This script will hach your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
+
+### Installation
 You can download the scripts by
 
 	curl -LO https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh
@@ -9,22 +13,15 @@ or directly run it by
 
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh | bash
 
-Replace `hack-gnome-shell.sh` with script you want to have.
-
-## hack-gnome-shell.sh
-This script will hach your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
 ### Installed packages
-#### Extensions
-
-- gnome-shell-extension-user-theme
-- gnome-shell-extension-dash-to-dock
-- gnome-shell-extension-topicons-plus
-
-#### Themes
-
-- arc-theme
-- pop-icon-theme
-- breeze-cursor-theme
+- Extensions
+ - gnome-shell-extension-user-theme
+ - gnome-shell-extension-dash-to-dock
+ - gnome-shell-extension-topicons-plus
+- Themes
+ - arc-theme
+ - pop-icon-theme
+ - breeze-cursor-theme
 
 ### Removed packages
 
@@ -79,7 +76,7 @@ Install essential and generic developemt tools and softwares, building an out-of
 ### Installation
 Run the follwing command to install:
 
-	curl -sLf https://raw.githubusercontent.com/gaunthan/coding-is-life.sh | bash
+	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/coding-is-life.sh | bash
 
 
 ## prompt-soul.sh
@@ -89,4 +86,4 @@ A Powerline like prompt for Bash:
 
 Run the follwing command to install:
 
-	curl -sLf https://raw.githubusercontent.com/gaunthan/prompt-soul.sh | bash
+	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/prompt-soul.sh | bash
