@@ -5,7 +5,7 @@ Hacking your Fedora system, make it awesome! :-D
 This script will hack your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
 
 ### Installation
-You can download the scripts by
+You can download the script by
 
 	curl -LO https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh
 
