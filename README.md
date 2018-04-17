@@ -14,14 +14,15 @@ or directly run it by
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh | bash
 
 ### Installed packages
-- Extensions
- - gnome-shell-extension-user-theme
- - gnome-shell-extension-dash-to-dock
- - gnome-shell-extension-topicons-plus
-- Themes
- - arc-theme
- - pop-icon-theme
- - breeze-cursor-theme
+#### Extensions
+- gnome-shell-extension-user-theme
+- gnome-shell-extension-dash-to-dock
+- gnome-shell-extension-topicons-plus
+ 
+#### Themes
+- arc-theme
+- pop-icon-theme
+- breeze-cursor-theme
 
 ### Removed packages
 
