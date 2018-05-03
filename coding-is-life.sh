@@ -15,6 +15,12 @@ curl -sLf https://spacevim.org/install.sh | bash
 # Install tilix
 sudo dnf install tilix -y
 
+# Install API docs tool
+sudo dnf install zeal -y
+
+# Install Octave
+sudo dnf install octave -y
+
 # Install development tools
 
 # Note: Use `dnf grouplist` to list group
