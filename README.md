@@ -2,10 +2,10 @@
 Hacking your Fedora system, make it awesome! :-D
 
 ## hack-gnome-shell.sh
-This script will hach your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
+This script will hack your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
 
 ### Installation
-You can download the scripts by
+You can download the script by
 
 	curl -LO https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh
 
@@ -14,14 +14,15 @@ or directly run it by
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh | bash
 
 ### Installed packages
-- Extensions
- - gnome-shell-extension-user-theme
- - gnome-shell-extension-dash-to-dock
- - gnome-shell-extension-topicons-plus
-- Themes
- - arc-theme
- - pop-icon-theme
- - breeze-cursor-theme
+#### Extensions
+- gnome-shell-extension-user-theme
+- gnome-shell-extension-dash-to-dock
+- gnome-shell-extension-topicons-plus
+ 
+#### Themes
+- arc-theme
+- pop-icon-theme
+- breeze-cursor-theme
 
 ### Removed packages
 
