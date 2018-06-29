@@ -28,6 +28,7 @@ remove_packages \
 	gnome-shell-extension-alternate-tab
 
 # Enable extensions
+# May need to enabling extensions manually
 echo "Enabling extensions..."
 gnome-shell-extension-tool -e topicons
 gnome-shell-extension-tool -e user-theme
