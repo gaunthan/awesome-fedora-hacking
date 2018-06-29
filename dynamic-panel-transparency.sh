@@ -20,6 +20,7 @@ else
 fi
 
 # Install extension
+mkdir -p ~/.local/share/gnome-shell/extensions
 cp -rf $repo_name/dynamic-panel-transparency@rockon999.github.io ~/.local/share/gnome-shell/extensions/dynamic-panel-transparency@rockon999.github.io
 
 # Enable extension
