@@ -13,7 +13,7 @@ sudo dnf install vim -y
 curl -sLf https://spacevim.org/install.sh | bash
 
 # Install tilix
-sudo dnf install tilix -y
+sudo dnf install tilix tilix-nautilus -y
 
 # Install API docs tool
 sudo dnf install zeal -y
