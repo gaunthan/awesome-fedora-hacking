@@ -1,0 +1,11 @@
+[Unit]
+Description=Kill fcitx
+DefaultDependencies=no
+Before=shutdown.target reboot.target halt.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/kill-fcitx
+
+[Install]
+WantedBy=halt.target reboot.target shutdown.target
