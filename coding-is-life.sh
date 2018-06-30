@@ -26,4 +26,4 @@ sudo dnf install octave -y
 # Note: Use `dnf grouplist` to list group
 sudo dnf groupinstall "C Development Tools and Libraries" -y
 sudo dnf groupinstall "Development Tools" -y
-sudo dnf install gcc-c++
+sudo dnf install gcc-c++ make cmake
