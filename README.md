@@ -88,3 +88,11 @@ A Powerline like prompt for Bash:
 Run the follwing command to install:
 
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/prompt-soul.sh | bash
+
+## fcitx-rime-installer.sh
+A installer script for installing fcitx and fcitx-rime! 
+
+Just run the following command and then reboot your system, you will have fcitx be all set
+
+	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/fcitx-rime-installer.sh | bash
+	
