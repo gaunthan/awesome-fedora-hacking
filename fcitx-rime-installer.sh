@@ -8,7 +8,7 @@ sudo dnf install fcitx fcitx-configtool fcitx-gtk2 fcitx-gtk3 -y
 # Install fcitx-rime
 cd /tmp
 curl -OL https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/resources/packages/fcitx-rime-0.3.1-2.git9351313.fc27.x86_64.rpm
-sudo dnf install ./fcitx-rime-0.3.1-2.git9351313.fc27.x86_64.rpm
+sudo dnf install ./fcitx-rime-0.3.1-2.git9351313.fc27.x86_64.rpm -y
 
 # Add fcitx to startup
 ln -sf /usr/share/applications/fcitx.desktop ~/.config/autostart/
