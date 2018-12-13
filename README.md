@@ -1,15 +1,15 @@
 # awesome-fedora-hacking
 Hacking your Fedora system, make it awesome! :-D
 
+In order to make the code works, confirm you have installed gnome-tweak-tool. If not, run the following command to install
+
+	sudo dnf install gnome-tweak-tool -y
+
 ## hack-gnome-shell.sh
-This script will hack your gnome shell, adding extensions and themes to make it more convenient and elegant. You will get an awesome shell in the end. 
+`hack-gnome-shell.sh` will hack your gnome shell, adding some extensions and themes to make it more convenient and elegant. You will have an awesome shell in the end. 
 
 ### Installation
-You can download the script by
-
-	curl -LO https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh
-
-or directly run it by
+You can directly run the script by
 
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/hack-gnome-shell.sh | bash
 
@@ -39,7 +39,7 @@ This script will configure your gnome shell's appearance as shown
 
 ![](./images/hack-gnome-shell-screenshot-appearance.png)
 
-with enabled extensions
+which will enabling the following extensions
 
 ![](./images/hack-gnome-shell-screenshot-enabled-extensions.png)
 
@@ -53,10 +53,10 @@ with enabled extensions
 ![](./images/hack-gnome-shell-screenshot-preview.png)
 
 ## dynamic-panel-transparency.sh
-Thanks to rockon999, for sharing such awesome extension! Repository address: [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency).
+Thanks to rockon999 for sharing such awesome extension [rockon999/dynamic-panel-transparency](https://github.com/rockon999/dynamic-panel-transparency).
 
 ### Installation
-Run the follwing command to install the extension:
+Run the follwing command to install it :
 
 	curl -sLf https://raw.githubusercontent.com/gaunthan/awesome-fedora-hacking/master/dynamic-panel-transparency.sh | bash
 
