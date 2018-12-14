@@ -74,6 +74,15 @@ Pay attention to the top bar, you will see the changes.
 ## coding-is-life.sh
 Install essential and generic developemt tools and softwares, building an out-of-the-box environment for programmer.
 
+This script will install the following packages
+
+- SpaceVim
+- vscode
+- tilix
+- zeal
+- octave
+- C/C++ development tools
+
 ### Installation
 Run the follwing command to install:
 
