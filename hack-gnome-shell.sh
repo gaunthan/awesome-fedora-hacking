@@ -49,7 +49,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock scroll-action cycle-window
 # Configure topicons
 echo "Configuring gnome-shell-extension-topicons-plus..."
 gsettings set org.gnome.shell.extensions.topicons tray-pos right
-set org.gnome.shell.extensions.topicons  tray-order 2
+gsettings set org.gnome.shell.extensions.topicons tray-order 2
 
 # Setup theme and icons
 install_packages \
