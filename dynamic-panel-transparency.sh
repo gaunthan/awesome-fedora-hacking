@@ -21,6 +21,8 @@ fi
 
 # Download extension
 cd /tmp
+sudo dnf install git -y > /dev/null 2>&1
+sudo apt install git -y > /dev/null 2>&1
 git clone $repo_addr
 
 # Install extension
