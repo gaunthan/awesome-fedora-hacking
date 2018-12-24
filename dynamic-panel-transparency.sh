@@ -19,6 +19,10 @@ else
   echo "Extension already downloaded, skipped."
 fi
 
+# Download extension
+cd /tmp
+git clone $repo_addr
+
 # Install extension
 mkdir -p ~/.local/share/gnome-shell/extensions
 cp -rf $repo_name/dynamic-panel-transparency@rockon999.github.io ~/.local/share/gnome-shell/extensions/dynamic-panel-transparency@rockon999.github.io
